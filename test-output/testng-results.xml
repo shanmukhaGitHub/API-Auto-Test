@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10171" started-at="2020-04-21T14:41:48 EDT" finished-at="2020-04-21T14:41:58 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10171" started-at="2020-04-21T14:41:48 EDT" finished-at="2020-04-21T14:41:58 EDT">
+      <class name="com.shan.api.testing.DeckOfCardsAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="setUp" is-config="true" duration-ms="6686" started-at="2020-04-21T14:41:48 EDT" finished-at="2020-04-21T14:41:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_010_get_DeckOfCards_add_joker()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_010_get_DeckOfCards_add_joker" duration-ms="775" started-at="2020-04-21T14:41:55 EDT" finished-at="2020-04-21T14:41:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_010_get_DeckOfCards_add_joker -->
+        <test-method status="PASS" signature="test_01_get_DeckOfCards_Status_and_response_check()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_01_get_DeckOfCards_Status_and_response_check" duration-ms="330" started-at="2020-04-21T14:41:56 EDT" finished-at="2020-04-21T14:41:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_get_DeckOfCards_Status_and_response_check -->
+        <test-method status="PASS" signature="test_02_DeckOfCards_draw_four_cards()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_02_DeckOfCards_draw_four_cards" duration-ms="293" started-at="2020-04-21T14:41:56 EDT" finished-at="2020-04-21T14:41:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02_DeckOfCards_draw_four_cards -->
+        <test-method status="PASS" signature="test_03_DeckOfCards_reshuffle()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_03_DeckOfCards_reshuffle" duration-ms="378" started-at="2020-04-21T14:41:56 EDT" finished-at="2020-04-21T14:41:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03_DeckOfCards_reshuffle -->
+        <test-method status="PASS" signature="test_04_DeckOfCards_partial_deck()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_04_DeckOfCards_partial_deck" duration-ms="256" started-at="2020-04-21T14:41:57 EDT" finished-at="2020-04-21T14:41:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_04_DeckOfCards_partial_deck -->
+        <test-method status="PASS" signature="test_05_DeckOfCards_adding_piles()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_05_DeckOfCards_adding_piles" duration-ms="248" started-at="2020-04-21T14:41:57 EDT" finished-at="2020-04-21T14:41:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_05_DeckOfCards_adding_piles -->
+        <test-method status="PASS" signature="test_06_DeckOfCards_piles_shuffle()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_06_DeckOfCards_piles_shuffle" duration-ms="245" started-at="2020-04-21T14:41:57 EDT" finished-at="2020-04-21T14:41:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_06_DeckOfCards_piles_shuffle -->
+        <test-method status="PASS" signature="test_07_DeckOfCards_piles_list()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_07_DeckOfCards_piles_list" duration-ms="241" started-at="2020-04-21T14:41:58 EDT" finished-at="2020-04-21T14:41:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_07_DeckOfCards_piles_list -->
+        <test-method status="PASS" signature="test_08_DeckOfCards_piles_draw_AS()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_08_DeckOfCards_piles_draw_AS" duration-ms="341" started-at="2020-04-21T14:41:58 EDT" finished-at="2020-04-21T14:41:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_08_DeckOfCards_piles_draw_AS -->
+        <test-method status="PASS" signature="test_09_DeckOfCards_piles_draw_card_2()[pri:0, instance:com.shan.api.testing.DeckOfCardsAPITest@63e2203c]" name="test_09_DeckOfCards_piles_draw_card_2" duration-ms="240" started-at="2020-04-21T14:41:58 EDT" finished-at="2020-04-21T14:41:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_09_DeckOfCards_piles_draw_card_2 -->
+      </class> <!-- com.shan.api.testing.DeckOfCardsAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
